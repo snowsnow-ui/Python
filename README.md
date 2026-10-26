@@ -1,2 +1,2 @@
-# Python_assignment
-This is this for college PYTHON Assignment
+# PYTHON
+This is this for college PYTHON Assignment , mini project and Seminar
