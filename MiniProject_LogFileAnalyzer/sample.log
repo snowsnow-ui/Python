@@ -1,0 +1,10 @@
+2026-10-24 09:00:00 INFO Application started
+2026-10-24 09:01:00 INFO User logged in
+2026-10-24 09:02:00 WARNING Disk space is low
+2026-10-24 09:03:00 ERROR Database connection failed
+2026-10-24 09:04:00 INFO File uploaded successfully
+2026-10-24 09:05:00 DEBUG Checking system status
+2026-10-24 09:06:00 ERROR File not found
+2026-10-24 09:07:00 WARNING High memory usage
+2026-10-24 09:08:00 INFO User logged out
+2026-10-24 09:09:00 ERROR Server response failed
